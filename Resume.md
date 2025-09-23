@@ -87,19 +87,19 @@ I am a skilled engineer with over a decade of experience in complex distributed 
 
 ## Bottomline Technologies - Englewood Cliffs, New Jersey
 ***Manager of Cloud and Services, Cyber Fraud & Risk Management (Nov. 2021 - Jul. 2023)***
-- Responsible for implementing and delivering Bottomline's distributed Cyber Fraud solutions and microservices across private, public (AWS, GCP), and hybrid cloud environments using modern DevOps best practices and tools (Terraform, Puppet, Jenkins, ArgoCD, GitLab, Bitbucket, Kubernetes).
+- Program manager responsible for implementing and delivering Bottomline's distributed Cyber Fraud solutions and microservices across private, public (AWS, GCP), and hybrid cloud environments using modern DevOps best practices and tools (Terraform, Puppet, Jenkins, ArgoCD, GitLab, Bitbucket, Kubernetes).
 - Served as Technical Lead and Scrum Master for a team of implementation engineers using Agile methodologies, mentoring engineers, and performing code reviews.
-- Managed ongoing operation and maintenance of solutions for optimal performance and security using tools like ELK, Grafana, Prometheus, and Rapid7.
+- Managed ongoing operation and maintenance of solutions for optimal performance and security using tools like ELK, Grafana, Prometheus, and collaborated with cross-functional teams to resolve issues and implement enhancements.
 
-***Senior Implementation Engineer (Feb. 2019 - Nov. 2021)***
+***Senior Software Engineer, Cyber Fraud & Risk Management, Implementation (Feb. 2019 - Nov. 2021)***
 - Designed and implemented a custom Python library for automating deployments, maintenance operations, and CI/CD pipelines.
-- Built cloud infrastructure (e.g., Apache Tomcat servers, Elasticsearch clusters, Kubernetes namespaces) using Terraform and Puppet.
-- Developed ETLs using Spring Batch and Hibernate for customer data loading.
+- Enhanced Cyber Fraud solutions by developing microservices with additional REST APIs and SOAP Webservices using Spring Boot.
+- Built cloud infrastructure (e.g., Apache Tomcat servers, Elasticsearch clusters, Kubernetes namespaces) using custom Terraform modules and Puppet for configuration management.
 - Created custom Ansible playbooks to automate deployment processeses in customer environments.
 
-***Implementation Engineer (June 2015 - Feb. 2019)***
-- Enhanced Cyber Fraud solutions by developing microservices with additional REST APIs and SOAP Webservices using Spring Boot.
+***Software Engineer, Cyber Fraud & Risk Management, Implementation (June 2015 - Feb. 2019)***
 - Automated log monitoring and improved observability by implementing ELK (Elasticsearch, Logstash, and Kibana), Grafana, and Prometheus processes for Cyber Fraud solutions
+- Developed ETLs using Spring Batch and Hibernate for customer data loading.
 - Provided training to client technical teams and acted as SME for on-premise implementation projects.
 
 ## JPMorgan Chase - New York, New York
