@@ -80,7 +80,8 @@ I am a skilled engineer with over a decade of experience in complex distributed 
 - **Other:** REST APIs, SOAP Webservices, Microservices, LLM, NLP, Entity Resolution, Service integration, ETL, CI/CD, Agile/Scrum, DevOps,SRE
 # Experience
 ## Siren Solutions - Rutherford, New Jersey (Remote)
-***Senior Implementation Consultant (Jul. 2023 - Current)***
+***Solutions Architect (Nov. 2025 - Current)***
+***Senior Implementation Consultant (Jul. 2023 - Nov 2025)***
 - Leading the implementation of Siren's data intelligence platform for clients across various industries by collaborating with cross-functional teams to design and deliver tailored solutions that meet client needs.
 - Responsible for the full implementation lifecycle, from requirements gathering and solution design to deployment and post-implementation support.
 - Developed integrations with third-party data sources and systems as well as vairous AI (LLM, NLP, Entity Resolution) services.
