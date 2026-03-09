@@ -29,3 +29,5 @@ https://github.com/DMcP89/harambot/blob/release/v1.0.0/.gemini/specs/scoreboard_
 <br />
 The main pitfall I've found with this approach is a few times as I was writing out a spec I thought to myself "I could have implemented this myself in the time its taken me to write this spec" so you do need to pick and choose where you'll use it.
 
+
+#SpecDrivenDevelopment #SDD #VibeCoding #LLM #CodeAssistants #SoftwareEngineering #AgenticDevelopment
